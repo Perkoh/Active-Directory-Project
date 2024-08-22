@@ -1,19 +1,18 @@
-# Active-Directory-Project
+# Active Directory Project
 
 ## Objective
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+This project demonstrates the deployment, configuration, and securing of a Microsoft Active Directory (AD) environment. It covers the creation of a Windows Domain, management of users and groups, implementation of security policies, and monitoring for potential threats. The project is designed to provide a comprehensive guide for setting up a secure and manageable AD infrastructure.
 
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Developed skills in creating, managing, and securing user accounts within Active Directory, including setting up profiles, passwords, and permissions.
+- Learned how to create and manage security groups, distribution groups, and Group Policy Objects (GPOs) to control user and computer settings across the network.
+- Learned how to implement RBAC within AD to ensure users have the minimum necessary permissions for their roles.
+- Developed a strong understanding of Identity and Access Management (IAM) principles as they apply to Active Directory.
+- Learned how to install, configure, and manage a Domain Controller (DC) within an Active Directory environment.
 
 ### Tools Used
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark and Tcpdump) for capturing and examining network traffic.
-- Packet captures from online platforms to get abressed with network attacks and attack scenarios.
+- Windows Server
+
